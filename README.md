@@ -1,1 +1,2 @@
 # QTM
+sử dụng github
